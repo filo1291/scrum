@@ -376,7 +376,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### The Product Backlog is ordered by:
 
-- [x] The Product Owner with the most valuable items placed at the top.
+- [x] Whatever is deemed most appropriate by the Product Owner.
 - [ ] Risk, where safer items are at the top, and riskier items are at the bottom.
 - [ ] Items are randomly arranged.
 - [ ] Size, where small items are at the top and large items are at the bottom.
@@ -1297,7 +1297,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] A defined and predictive process that confirms to the principles of Scientific Management.
 - [ ] A complete methodology that defines how to develop software.
 - [ ] A cookbook that defines best practices for software development.
-- [x] A framework within which complex products in complex environments are developed.
+- [x] A framework for creating complex products in complex environments.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2487,7 +2487,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which of the following services is appropriate for a Scrum Master in regard to the Daily Scrum?
-
 - [x] Teach the Developers to keep the Daily Scrum within the 15 minute timebox.
 - [ ] Lead the discussions of the Developers.
 - [ ] Facilitate in a way that ensures each team member has a chance to speak
