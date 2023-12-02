@@ -2997,6 +2997,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 304 | [Developers include which role(s)? (select all that apply)](#developers-include-which-roles-select-all-that-apply) |
 | 305 | [True or False: The more code a Developer writes the better.](#true-or-false-the-more-code-a-developer-writes-the-better) |
 
+### When are individuals with testing and quality expertise included in the software development effort?
+
+- [ ] When the implementation of each feature is complete.
+- [x] From the beginning and throughout all Sprints.
+- [ ] OAfter Sprint Review.
+- [ ] When the product is feature complete.
+
+
 ### When can Product Backlog Refinement occur?
 
 - [ ] Only during Sprint Planning.
