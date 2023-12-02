@@ -376,7 +376,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### The Product Backlog is ordered by:
 
-- [x] The Product Owner with the most valuable items placed at the top.
+- [x] Whatever is deemed most appropriate by the Product Owner.
 - [ ] Risk, where safer items are at the top, and riskier items are at the bottom.
 - [ ] Items are randomly arranged.
 - [ ] Size, where small items are at the top and large items are at the bottom.
