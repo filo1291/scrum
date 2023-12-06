@@ -8492,8 +8492,39 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Making sure there is enough work for everyone on every team.
 - [ ] Meeting original scope projections.
 
+### The purpose of the Nexus Integration Team is to:
+- [x] Be accountable that a product Increment is produced.
+- [x] Raise transparency.
+- [ ] Manage the Nexus.
+- [ ] Integrate all the Scrum Team’s work.
+
+
+### Complex products are often decomposed into components. These components may be represented as activities, workflows, functions, features, capabilities, and other similar nomenclature. How does this product decomposition affect the way that multiple Scrum Teams work together to deliver the products? (choose the best answer)
+- [ ] People are assigned to Scrum Teams based on their expertise and the skills needed to develop each component. Hardening Sprints ensure time for resolving dependencies between teams.
+- [x] How the organization discusses and plans the work of creating the components will be reflected in the implementation of that product. 
+- [ ] There is one Scrum Team for each component whose job is to coordinate dependencies, work allocation, integration, and testing.
+- [ ] Meta-Scrum Teams of up to two hundred people are formed. They then map themselves into appropriately sized Scrum Teams for actual product development. This may change every Sprint. Each Meta-Scrum Team manages its own decomposition and integration needs.
+
+
+### How should multiple Scrum Teams deliver a done, useful, and valuable Increment in a Sprint? (choose the best answer)
+- [ ] Each Scrum Team provides a unique done Increment that includes the team's added functionality.
+- [ ] Each Scrum Team delivers done Increments of its own area of responsibility. These Increments are integrated into a whole product during stabilization prior to release.
+- [ ] Functionality not integrated with the work of other Scrum Teams may be delivered as unintegrated Increments. This demonstrates the value created by the Scrum Teams unable to completely integrate their Increments.
+- [x] Each Sprint, all Scrum Teams have a done Increment that integrates with all of the other done Increments from all other Scrum Teams on the initiative. The sum of all Increments is the Increment for that product.
+
+### The purpose of the Nexus Sprint Backlog is: (choose the best two answers)
+- [ ] To plan the product release.
+- [ ] To visualize all Product Backlog items.
+- [x] To make dependencies transparent to the Scrum Teams.
+- [x] To provide a view of dependent Product Backlog items in a Sprint.
+
 ### 
 - [ ] 
 - [ ] 
 - [ ] 
 
+### 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
