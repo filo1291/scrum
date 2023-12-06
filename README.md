@@ -8430,3 +8430,70 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Summarizing and reporting the discussions to the stakeholders that they represent in the Scrum Team.
 
 **[⬆ Back to Top](#table-of-contents)**
+
+
+#Nexus Open 
+
+### A Nexus Daily Scrum: (choose the best two answers)
+- [x] Provides input into each team's individual Daily Scrums, so that each Scrum Team can better plan their work until their next Daily Scrum.
+- [ ] Provides a single meeting where all teams can update the Sprint Backlog.
+- [ ] Is only for the Nexus Integration Team to plan their work for the next 24 hours.
+- [x] Is an opportunity to make integration issues transparent.
+- [ ] Is the same as a Scrum-of-Scrums.
+
+### All Scrum Team members must attend the Nexus Daily Scrum.
+- [ ] True
+- [x] False
+
+### What are two ways that Developers can ensure a good application architecture? (choose the best two answers)
+- [ ] The Developers focus only on adding functionality. The architecture will take care of itself as the Developers add functionality.
+- [x] Architecture is an ongoing discussion between Developers who are implementing current Sprint Backlog items.
+- [x] The Developers have a set of guiding architecture principles that every Developer understands and follows when building the product.
+- [ ] The Scrum Team uses a Sprint 0 to create infrastructure that will be needed later.
+
+
+### There is one Product Backlog for a Nexus.
+- [x] True
+- [ ] False
+
+
+### What factors should be considered when establishing the length of a Sprint? (choose the best two answers)
+- [ ] The Nexus Integration Team should determine the Sprint length for all individual Scrum Teams.
+- [x]The level of uncertainty over the solution being developed.
+- [ ] The frequency at which team formation can be changed.
+- [ ] All teams in a Nexus must have the same Sprint length.
+- [x]The risk of being disconnected from the stakeholders.
+
+
+### What is the purpose of the Nexus Sprint Retrospective? (choose the best answer)
+- [ ] To identify the one item teams should discuss during their individual Sprint Retrospective.
+- [x] To plan ways to increase quality and effectiveness across the whole Nexus.
+- [ ] To identify dependencies between teams.
+- [ ] To discuss what went well during the Sprint.
+
+
+### Using Scrum ensures that adding more resources to a project proportionally increases the value delivered.
+- [ ] True
+- [x] False
+
+
+### A Nexus Integration Team is responsible for actually doing the integration work during the Sprint.
+- [ ] True
+- [x] False
+ 
+### Developers may also serve on the Nexus Integration Team.
+- [ ] True
+- [ ] False
+
+
+### What is the most important concern for multiple Scrum Teams when they are working from the same Product Backlog? (choose the best answer)
+- [x] Minimizing dependencies between Scrum Teams.
+- [ ] Clear definition of requirements.
+- [ ] Making sure there is enough work for everyone on every team.
+- [ ] Meeting original scope projections.
+
+### 
+- [ ] 
+- [ ] 
+- [ ] 
+
